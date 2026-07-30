@@ -1,15 +1,17 @@
- AWS CloudWatch Monitoring Project
- Project Overview
+# AWS CloudWatch Monitoring Project
+
+## Project Overview
 
 This project demonstrates how to monitor an Amazon EC2 instance using AWS CloudWatch. It includes CloudWatch Metrics, CloudWatch Alarms, and Amazon SNS email notifications for CPU utilization monitoring.
 
- AWS Services Used
+## AWS Services Used
 
 - Amazon EC2
 - Amazon CloudWatch
 - Amazon SNS
 - IAM
- Features
+
+## Features
 
 - Launch an EC2 instance
 - Monitor CPU Utilization
@@ -20,17 +22,17 @@ This project demonstrates how to monitor an Amazon EC2 instance using AWS CloudW
 
 ## Project Workflow
 
-EC2 Instance
-↓
-CloudWatch Metrics
-↓
-CloudWatch Alarm
-↓
-Amazon SNS
-↓
+EC2 Instance  
+↓  
+CloudWatch Metrics  
+↓  
+CloudWatch Alarm  
+↓  
+Amazon SNS  
+↓  
 Email Notification
 
- Screenshots
+## Screenshots
 
 - EC2 Running
 - CloudWatch Graph
@@ -40,7 +42,7 @@ Email Notification
 - Subscription Confirmed
 - Email Notification
 
- Skills Gained
+## Skills Gained
 
 - Amazon EC2
 - Amazon CloudWatch
@@ -49,6 +51,6 @@ Email Notification
 - Monitoring & Alerting
 - AWS Management Console
 
- Author
+## Author
 
-M. Vinoth Kumar
+**M. Vinoth Kumar**
