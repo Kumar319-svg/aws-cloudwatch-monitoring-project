@@ -34,13 +34,26 @@ Email Notification
 
 ## Screenshots
 
-- EC2 Running
-- CloudWatch Graph
-- Alarm Details
-- Alarm In Alarm State
-- SNS Subscription
-- Subscription Confirmed
-- Email Notification
+### EC2 Running
+![EC2 Running](EC2-Running.png)
+
+### CloudWatch Graph
+![CloudWatch Graph](Graph- Cloud watch.png)
+
+### Alarm Details
+![Alarm Details](Alram page details.png)
+
+### Alarm In Alarm State
+![Alarm In Alarm State](in Alarm.png)
+
+### SNS Subscription
+![SNS Subscription](Subscription.png)
+
+### Subscription Confirmed
+![Subscription Confirmed](Subcription-Confirmed.png)
+
+### Email Notification
+![Email Notification](subscription..png)
 
 ## Skills Gained
 
